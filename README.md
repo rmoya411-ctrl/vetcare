@@ -15,7 +15,3 @@ Desarrollado en Python 3 con conexión a SQL Server mediante pyodbc.
 - pyodbc
 - tkinter
 
-## Estructura del proyecto
-- `/bd` → Scripts SQL
-- `/src` → Código fuente Python
-- `/docs` → Documentación y avances
